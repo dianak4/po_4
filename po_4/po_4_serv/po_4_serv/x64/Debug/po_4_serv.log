@@ -1,0 +1,4 @@
+﻿  po_4_serv.cpp
+E:\юні\po_4\po_4_serv\po_4_serv\po_4_serv.cpp(42,41): warning C4267: 'argument': conversion from 'size_t' to 'u_long', possible loss of data
+E:\юні\po_4\po_4_serv\po_4_serv\po_4_serv.cpp(44,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  po_4_serv.vcxproj -> E:\юні\po_4\po_4_serv\x64\Debug\po_4_serv.exe

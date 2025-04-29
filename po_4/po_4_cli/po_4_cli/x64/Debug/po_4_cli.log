@@ -1,0 +1,7 @@
+﻿  po_4_cli.cpp
+E:\юні\po_4\po_4_cli\po_4_cli\po_4_cli.cpp(14,38): warning C4267: 'argument': conversion from 'size_t' to 'u_long', possible loss of data
+E:\юні\po_4\po_4_cli\po_4_cli\po_4_cli.cpp(16,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\юні\po_4\po_4_cli\po_4_cli\po_4_cli.cpp(39,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\юні\po_4\po_4_cli\po_4_cli\po_4_cli.cpp(40,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\юні\po_4\po_4_cli\po_4_cli\po_4_cli.cpp(52,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  po_4_cli.vcxproj -> E:\юні\po_4\po_4_cli\x64\Debug\po_4_cli.exe
